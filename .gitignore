@@ -1,0 +1,33 @@
+# Virtual enviroment
+
+venv/
+env/
+ENV/
+
+# Python bytecode 
+
+--pycache--/
+*.pyc
+*.pyo
+*.pyd
+.Python 
+
+# IDE 
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Project 
+
+.env 
+config.local
+*.log
+
+
